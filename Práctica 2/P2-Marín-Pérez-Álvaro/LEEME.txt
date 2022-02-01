@@ -1,0 +1,2 @@
+Para poder lanzar los algoritmos, es necesario cambiar las rutas donde se van a almacenar 
+los gráficos generados.
